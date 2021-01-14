@@ -71,3 +71,6 @@ body{
     border: 2px solid #1b6fd1;
     color: #fff;
 }
+a{
+    text-decoration: none;
+}
