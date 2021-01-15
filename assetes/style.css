@@ -7,21 +7,19 @@ body{
     width: 292px;
     margin:44px auto 0px;
     background-color: #fff;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
     text-align: center;
 }
 
 .calculator input{
     display: block;
     height: 70px;
-    border: 1.5px solid #fff;
+    border: 2px solid #fff;
     font-size: 27px;
     width: 16.2rem;
     text-align: right;
     background: linear-gradient(to top, #160557 10%, #1b6fd1);
     color: #fff;
-    padding: 0px 15px;
+    padding: 0px 14px;
 }
 ::placeholder {
     color: #ccc;
