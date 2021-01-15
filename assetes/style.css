@@ -9,6 +9,7 @@ body{
     background-color: #fff;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+    text-align: center;
 }
 
 .calculator input{
@@ -31,8 +32,8 @@ body{
   }
 .calculator button{
     padding: 0px;
-    width: 70px;
-    height: 70px;
+    width: 69px;
+    height: 69px;
     font-size: 22px;
     margin: 0px;
     background-color:#1b6fd1 ;
